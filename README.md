@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Sankalp 👋</h1>
 
 <p align="center">
-  <b>B.Tech CSE Student at VIT Bhopal University</b>
+  <b>B.Tech CSE Student at VIT Bhopal University </b>
 </p>
 
 <p align="center">
