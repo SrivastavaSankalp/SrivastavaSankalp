@@ -1,103 +1,135 @@
+<h1 align="center">
+  Hi there, I'm Sankalp Srivastava 👋
+</h1>
 
-<h1 align="center">Hi, I'm Sankalp 👋</h1>
-
-<p align="center">
-  <b>B.Tech CSE Student at VIT Bhopal University </b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/SrivastavaSankalp">GitHub</a> •
-  <a href="https://www.linkedin.com/in/sankalp-srivastava-84285b406/">LinkedIn</a> •
-  <a href="mailto:sankalp.srivastava2006@gmail.com">Email</a>
-</p>
-
----
-
-### A little about me
-
-I'm a second-year Computer Science student at VIT Bhopal. I enjoy coding, exploring new technologies and working on projects that help me learn something new.
-
-I'm interested in software development, AI/ML and building things that solve real-world problems. I also enjoy participating in hackathons and learning how things work behind the scenes.
-
-- 💻 Interested in software development, AI/ML and web technologies.
-- 🌱 Currently learning frontend development and exploring machine learning.
-- 🏆 3rd Place at IEEE Hackathon 2026, UI/UX Track.
-- 🔍 Always curious to learn something new and improve my skills.
-
----
-
-### Languages & Tools
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp" />
-</p>
-
-**Currently learning – Frontend Development**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
-
-- Learning to build responsive websites using HTML, CSS and JavaScript.
-
-**Currently exploring – AI / Machine Learning**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-</p>
-
-- Exploring Machine Learning and Deep Learning.
-- Learning model training, fine-tuning and working with PyTorch.
-- Understanding how AI models are built, trained and evaluated.
-
-**Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-### Some things I've worked on
-
-**[Quantum System Simulator](https://github.com/SrivastavaSankalp/Quantum-System-Simulator)**
-
-A Python project where I worked on simulating basic quantum systems like a particle in a box and a quantum harmonic oscillator.
-
-**[Movie Recommender System](https://github.com/SrivastavaSankalp/movie-recommender-system)**
-
-A movie recommendation project built using Python and Pandas. It allows users to explore movies based on different preferences.
-
-**[Digital Literacy Project](https://github.com/SrivastavaSankalp/Digital-Literacy-Project)**
-
-A project focused on digital awareness, online safety and responsible use of technology.
-
-**[Hotel Management System](https://github.com/SrivastavaSankalp/SankalpSrivastava25BCE10202)**
-
-A Python-based CLI project for handling hotel room bookings, restaurant orders and billing.
-
----
-
-### Achievements
-
-- 🥉 3rd Place – IEEE Hackathon 2026, UI/UX Track.
-- **Problem Statement:** The Process Everyone Dreads.
-- **Project:** ScholarSaarthi — "Meri Padhai, Mera Haq".
-- **Team:** NIMBUS_011.
-
----
-
-### What I'm currently working on
-
-- Learning frontend development from the basics.
-- Practising Java and improving my problem-solving skills.
-- Exploring machine learning, model training and NLP.
-- Working on personal projects and hackathon ideas.
-
----
+<h3 align="center">
+  B.Tech CSE @ VIT Bhopal | Campus Ambassador @ Techfest, IIT Bombay
+</h3>
 
 <p align="center">
-  Thanks for stopping by! :)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=650&lines=Building+software+projects+and+simulations;Solving+problems+with+Java%2C+Python+%26+C%2B%2B;Developing+web+interfaces+and+ML+applications" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sankalp-srivastava-84285b406/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sankalp.srivastava2006@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/SrivastavaSankalp">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Second-year **B.Tech Computer Science** student at **VIT Bhopal**.
+- 💻 Focused on **Data Structures & Algorithms** in Java and C++.
+- 🐍 Building data analysis and simulation tools using **Python**.
+- 🌐 Developing web interfaces with **HTML, CSS & JavaScript**.
+- 🤖 Exploring applied machine learning workflows with **PyTorch**.
+
+---
+
+## 🏆 Leadership & Achievements
+
+- 🏛️ **Campus Ambassador** — Techfest, IIT Bombay
+- 🥉 **3rd Place (UI/UX Track)** — IEEE Hackathon 2026 (*Project: ScholarSaarthi*, Team NIMBUS_011)
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,python,cpp" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Web Technologies</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Technologies" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / Data</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools & Platforms</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools & Platforms" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <h3>⚛️ <a href="https://github.com/SrivastavaSankalp/Quantum-System-Simulator">Quantum System Simulator</a></h3>
+      <sub>Python · Physics Simulation · Scientific Computing</sub>
+      <br><br>
+      Simulates and visualizes quantum mechanics models—including a <b>particle in a box</b> and a <b>quantum harmonic oscillator</b>.
+      <br><br>
+      <b>Tech:</b> <code>Python</code>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td>
+      <h3>🎬 <a href="https://github.com/SrivastavaSankalp/movie-recommender-system">Movie Recommender System</a></h3>
+      <sub>Python · Data Analysis · Recommendation Engine</sub>
+      <br><br>
+      Filters movie datasets using <b>Python and Pandas</b> to recommend films based on user preferences.
+      <br><br>
+      <b>Tech:</b> <code>Python</code> · <code>Pandas</code>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td>
+      <h3>🏨 <a href="https://github.com/SrivastavaSankalp/SankalpSrivastava25BCE10202">Hotel Management System</a></h3>
+      <sub>Python · CLI Application · Operations Management</sub>
+      <br><br>
+      A command-line application automating <b>room bookings, restaurant orders, and customer billing</b>.
+      <br><br>
+      <b>Tech:</b> <code>Python</code>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sankalp-srivastava-84285b406/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:sankalp.srivastava2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+  </a>
 </p>
